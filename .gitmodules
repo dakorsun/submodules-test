@@ -1,0 +1,3 @@
+[submodule "apps/submodules-test-1"]
+	path = apps/submodules-test-1
+	url = git@github.com:dakorsun/submodules-test-1.git
